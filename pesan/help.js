@@ -1,5 +1,5 @@
 exports.menu = (pushname, sender, prefix, banChats, ucapanWaktu, timeWib, timeWit, timeWita) => {
-return`*╭─❒ 「 X - Dev Bot 」 ──────*
+return`*╭─❒ 「 ArullBotz 」 ──────*
 *│*
 *│*⬡ *${ucapanWaktu} kak*
 *│*⬡ *Nama : ${pushname}*
